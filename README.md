@@ -1,4 +1,4 @@
 # My-demo
 This is my first Git repository
 <br>
-Author - Ibra Maryam
+Author - Ibra Maryam(Bioinfo)
